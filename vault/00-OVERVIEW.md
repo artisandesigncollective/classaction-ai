@@ -29,3 +29,6 @@ Billions of dollars in corporate settlements go unclaimed every year because:
 - `api/stripe_fee.ts` — $15 Stripe Checkout with Apple/Google Pay
 - `api/submit_claim.ts` — RAG engine that extracts SKUs and auto-files claims
 - `.sovereign_memory.md` — Architectural log
+
+---
+?? **Sovereign Empire Hub:** [Master Index](file:///e:/hermes/github_fleet/EMPIRE_VAULT_INDEX.md) | [Command Center](file:///e:/hermes/github_fleet/paperclip-website/frontend/SovereignDashboard.tsx)
