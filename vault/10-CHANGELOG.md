@@ -8,4 +8,5 @@
 - **BUILT:** `api/submit_claim.ts` — Payment-gated RAG claim submission engine
 - **BUILT:** `.sovereign_memory.md` — Architectural log
 - **BUILT:** `vault/` — Complete 11-file Obsidian vault
+- **BUILT:** Phase 7.1 Last-Mile Dispatcher (Lob/Fax integration)
 - **GIT:** Initial commit to `artisandesigncollective/classaction-ai`
